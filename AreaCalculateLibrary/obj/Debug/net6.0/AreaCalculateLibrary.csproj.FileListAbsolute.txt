@@ -1,0 +1,12 @@
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\bin\Debug\net6.0\AreaCalculateLibrary.deps.json
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\bin\Debug\net6.0\AreaCalculateLibrary.dll
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\bin\Debug\net6.0\AreaCalculateLibrary.pdb
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\AreaCalculateLibrary.csproj.AssemblyReference.cache
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\AreaCalculateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\AreaCalculateLibrary.AssemblyInfoInputs.cache
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\AreaCalculateLibrary.AssemblyInfo.cs
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\AreaCalculateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\AreaCalculateLibrary.dll
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\refint\AreaCalculateLibrary.dll
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\AreaCalculateLibrary.pdb
+C:\Users\Nedifar\source\repos\AreaCalculateLibrary\AreaCalculateLibrary\obj\Debug\net6.0\ref\AreaCalculateLibrary.dll
